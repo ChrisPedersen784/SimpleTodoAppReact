@@ -1,0 +1,2 @@
+- Create a simple Todo application
+- functions like edit and delete should be available
